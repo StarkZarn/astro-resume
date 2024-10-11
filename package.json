@@ -73,7 +73,7 @@
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-astro": "1.2.3",
     "eslint-plugin-simple-import-sort": "12.1.1",
-    "eslint-plugin-tailwindcss": "3.17.4",
+    "eslint-plugin-tailwindcss": "3.17.5",
     "execa": "9.3.1",
     "favicons": "7.2.0",
     "nodemon": "3.1.7",
