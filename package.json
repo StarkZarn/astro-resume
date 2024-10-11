@@ -13,7 +13,7 @@
   "author": "Konrad Szwarc <konrad.szwarc.dev@gmail.com> (https://github.com/KonradSzwarc)",
   "type": "module",
   "engines": {
-    "node": "22.x",
+    "node": ">=22.x",
     "npm": "10.x",
     "pnpm": "please-use-npm",
     "yarn": "please-use-npm"
